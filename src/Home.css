@@ -16,9 +16,10 @@ h1.home__text{
     font-size: 18px;
     font-weight: 400;
     letter-spacing: 3px;
-    color: rgba(198,201,216,.75)!important;
+    color: rgba(230, 232, 243, 0.75)!important;
 }
 h2.home__text{
+    color: aliceblue;
     font-size: 54px;
     line-height: 54px;
     font-weight: 800;
@@ -31,6 +32,7 @@ h3.home__text{
     line-height: 40px;
 }
 h4.home__text{
+    color: aliceblue;
     font-size: 50px;
     font-weight: 800;
     line-height: 40px;

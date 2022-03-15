@@ -15,16 +15,15 @@ function About() {
             <img src={aboutImg} alt="" className="about__img" />
           </div>
           <div className="col__2">
-            <h1 className="about__heading">About US</h1>
+            <h1 className="about__heading">Brief overview of our expertise</h1>
             <div className="about__meta">
-              <p className="about__text p__color">The firm undertakes a wide range of service and research provisions in the donor supported development projects. SAFE meanwhile has provided services to different organizations in the field of monitoring, project mid-term (MTR) and final evaluation, management consultancy, baseline survey, market research, administrative and logistics Ssrvices for national reviews, gender reviews, public health, agri-business development support services and agricultural technical consultancy. Disaster risk reduction (DRR) and Climate Change impact adaptation strategies. The assignments includes quantitative & qualitative research and Participatory Rural Appraisal (PRA) exercise for community needs assessment, farmers’ field school (FFS) establishment, conducting ToT (training of trainers), capacity building, participatory monitoring and evaluation (PME) system development, project proposal writing, , impact evaluation/assessment, need assessment, participatory action research (PAR), different Learning curriculum development, participatory technology development (PTD) and evaluation) and logistical support for organizing workshop/ and seminar.   
-              </p>
+              <p className="about__text p__color">The firm undertakes a wide range of service and research provisions in the donor supported development projects. SAFE meanwhile has provided services to different organizations in the field of monitoring, project mid-term (MTR) and final evaluation, management consultancy, baseline survey, market research, administrative and logistics Services for national reviews, gender reviews, public health, agri-business development support services and agricultural technical consultancy. Disaster risk reduction (DRR) and Climate Change impact adaptation strategies. The assignments includes quantitative & qualitative research and Participatory Rural Appraisal (PRA) exercise for community needs assessment, farmers’ field school (FFS) establishment, conducting ToT (training of trainers), capacity building, participatory monitoring and evaluation (PME) system development, project proposal writing, , impact evaluation/assessment, need assessment, participatory action research (PAR), different Learning curriculum development, participatory technology development (PTD) and evaluation) and logistical support for organizing workshop/ and seminar. </p>
               <p className="about__text p__color">
                 
               </p>
-              <p className="about__text p__color">
+              {/* <p className="about__text p__color">
               SAFE served till now includes: DFID, DANIDA, FAO, SDC, CARE Bangladesh, 
-              </p>
+              </p> */}
               {/* <div className="about__button d__flex align__items__center">
                 <a href="#">
                   <button className="about btn pointer">Download Cv</button>

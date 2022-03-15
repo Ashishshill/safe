@@ -6,17 +6,18 @@ function Service() {
     <div className="service component__space" id="Services">
 
       <div className="heading">
-        <h1 className="heading">Our Service</h1>
+        <h1 className="heading">Our Services</h1>
         <p className="heading p__color">
-          There are many variations of passages of Lorem Ipsum available,
+          There are many variations of services we provide,
         </p>
         <p className="heading p__color">
-          but the majority have suffered alteration.
+          Our consulting Farm.
         </p>
       </div>
 
       <div className="container">
         <div className="row">
+
           <div className="col__3">
             <div className="service__box pointer">
               <div className="icon">
@@ -36,14 +37,17 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Business Stratagy</h1>
+                <h1 className="service__text">Development Project Design</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  - Conduct Stakeholders consultations
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  - Make field assessment/Feasibility study
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">
+                  - Stakeholders workshop
+                </p>
+                <p className="p service__text p__color">- Relevant documents/Literature review</p>
               </div>
             </div>
           </div>
@@ -68,14 +72,17 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Website Development</h1>
+                <h1 className="service__text">Project Monitoring system Design</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  - Project proposal/ document review
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  - Data collection tools design as per log-frame indicators
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">
+                  - Data analysis and Reporting
+                </p>
+                <p className="p service__text p__color">- online and off line data inputs</p>
               </div>
             </div>
           </div>
@@ -101,14 +108,17 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">Project Baseline Study</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  - Project document/ log-frame review
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  - Data collection tools design online and off-line
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">
+                  Data entry and analysis
+                </p>
+                <p className="p service__text p__color">- Report preparation</p>
               </div>
             </div>
           </div>
@@ -133,82 +143,22 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Mobile App Development</h1>
+                <h1 className="service__text">Project Evaluation</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  - Mid-Term Review
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                  - Final evaluation / Endline Study
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">
+                  - Project Performance assessment
+                </p>
+                <p className="p service__text p__color">Relevant data collection & analysis</p>
               </div>
             </div>
           </div>
 
-          <div className="col__3">
-            <div className="service__box pointer">
-              <div className="icon">
-                <svg
-                  stroke="currentColor"
-                  fill="none"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  height="1em"
-                  width="1em"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-                  <circle cx="9" cy="7" r="4"></circle>
-                  <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
-                  <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                </svg>
-              </div>
-              <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
-                <p className="p service__text p__color">
-                  I throw myself down among the
-                </p>
-                <p className="p service__text p__color">
-                  tall grass by the stream as I lie
-                </p>
-                <p className="p service__text p__color">close to the earth.</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col__3">
-            <div className="service__box pointer">
-              <div className="icon">
-                <svg
-                  stroke="currentColor"
-                  fill="none"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  height="1em"
-                  width="1em"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
-                  <line x1="8" y1="21" x2="16" y2="21"></line>
-                  <line x1="12" y1="17" x2="12" y2="21"></line>
-                </svg>
-              </div>
-              <div className="service__meta">
-                <h1 className="service__text">Mobile App Development</h1>
-                <p className="p service__text p__color">
-                  I throw myself down among the
-                </p>
-                <p className="p service__text p__color">
-                  tall grass by the stream as I lie
-                </p>
-                <p className="p service__text p__color">close to the earth.</p>
-              </div>
-            </div>
-          </div>
+         
         </div>
       </div>
     </div>

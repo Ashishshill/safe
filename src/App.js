@@ -4,11 +4,12 @@ import "./App.css";
 import Contact from "./Contact";
 import Footer from "./Footer";
 import Home from "./Home";
-import Company from "./Company";
+// import Company from "./Company";
 
-import Project from "./Project";
+// import Project from "./Project";
 import Service from "./Service";
 import Table from "./Table";
+import Serve from "./Serve";
 
 function App() {
   return (
@@ -16,10 +17,11 @@ function App() {
        <Home />
        <Service />
        <About />
-       <Project />
+       {/* <Project /> */}
+       <Serve/>
        <Table />
       
-       <Company/>
+       {/* <Company/> */}
        <Contact />
        <Footer />
     </div>

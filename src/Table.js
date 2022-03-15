@@ -8,9 +8,9 @@ function Table() {
   return (
     <div className="project component__space" id="Portfolio">
       <div className="heading">
-        <h1 className="heading">Our Previous Work</h1>
+        <h1 className="heading">Accomplishment of Our Recent Assignments</h1>
         <p className="heading p__color">
-          There are many variations of passages of Lorem Ipsum available,
+          
         </p>
        
       </div>
@@ -84,6 +84,31 @@ UST
             </tr>
         </table>
        </div>
+
+       <div className="container">
+       <div className="Record component__space">
+         <div className="row">
+           <div className="col__5">
+           <h1>SAFE Consultants</h1>
+
+<p><a href="https://drive.google.com/file/d/1JkFvi_-ndbxGUTmsVFUWlxRF6cWBs3bB/view?usp=sharing">Visit Here!</a></p>
+           </div>
+           <div className="col__2">
+           <h1>||</h1>
+
+           </div>
+           <div className="col__5">
+           <h1>SAFE Consultancy records </h1>
+
+<p><a href="https://drive.google.com/file/d/1G91ty7DydDxeDYCSmOmIh-rJ-lIjvoBD/view?usp=sharing">Visit Here!</a></p>
+           </div>
+
+         </div>
+      
+       </div>
+      
+       </div>
+
     </div>
   );
 }

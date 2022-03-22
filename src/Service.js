@@ -8,10 +8,10 @@ function Service() {
       <div className="heading">
         <h1 className="heading">Our Services</h1>
         <p className="heading p__color">
-          There are many variations of services we provide,
+          These are the services that we provide,
         </p>
         <p className="heading p__color">
-          Our consulting Farm.
+           Of Our consulting Farm.
         </p>
       </div>
 
@@ -123,7 +123,7 @@ function Service() {
             </div>
           </div>
 
-          <div className="col__3">
+          {/* <div className="col__3">
             <div className="service__box pointer">
               <div className="icon">
                 <svg
@@ -156,7 +156,7 @@ function Service() {
                 <p className="p service__text p__color">Relevant data collection & analysis</p>
               </div>
             </div>
-          </div>
+          </div> */}
 
          
         </div>

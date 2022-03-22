@@ -31,13 +31,18 @@ function Serve() {
                 </p>
                 <p className="p service__text p__color">- SDC</p>
                 <p className="p service__text p__color">- CARE Bangladesh</p>
-              </div>
-            </div>
-        </div>
-
-        <div className="col__3">
-            <div className="service__box pointer">
-              <div className="service__meta">
+                <p className="p service__text p__color">
+                  - Oxfam
+                </p>
+                <p className="p service__text p__color">
+                  - Concern Worldwide
+                </p>
+                <p className="p service__text p__color">
+                - Winrock International Bangladesh
+                </p>
+                <p className="p service__text p__color">- Welthungerhilfe </p>
+                <p className="p service__text p__color">- Many national NGOs</p>
+                
                 <p className="p service__text p__color">
                   - WorldFish
                 </p>
@@ -53,7 +58,25 @@ function Serve() {
             </div>
         </div>
 
-        <div className="col__3">
+        {/* <div className="col__3">
+            <div className="service__box pointer">
+              <div className="service__meta">
+                <p className="p service__text p__color">
+                  - WorldFish
+                </p>
+                <p className="p service__text p__color">
+                  - PLAN International
+                </p>
+                <p className="p service__text p__color">
+                - BAU
+                </p>
+                <p className="p service__text p__color">- ADRA</p>
+                <p className="p service__text p__color">- RDRS</p>
+              </div>
+            </div>
+        </div> */}
+
+        {/* <div className="col__3">
             <div className="service__box pointer">
               <div className="service__meta">
                 <p className="p service__text p__color">
@@ -69,7 +92,7 @@ function Serve() {
                 <p className="p service__text p__color">- Many national NGOs</p>
               </div>
             </div>
-        </div>
+        </div> */}
          
         </div>
       </div>

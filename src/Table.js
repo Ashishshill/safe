@@ -89,7 +89,7 @@ UST
        <div className="Record component__space">
          <div className="row">
            <div className="col__5">
-           <h1>SAFE Consultants</h1>
+           <h1>SAFE Profile & Consultants</h1>
 
 <p><a href="https://drive.google.com/file/d/1JkFvi_-ndbxGUTmsVFUWlxRF6cWBs3bB/view?usp=sharing">Visit Here!</a></p>
            </div>

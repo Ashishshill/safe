@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url("./img/as.webp");
+    background-image: url("./img/Safe_Home.jpg");
     background-color: #0a0a0a;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -16,10 +16,10 @@ h1.home__text{
     font-size: 18px;
     font-weight: 400;
     letter-spacing: 3px;
-    color: rgba(230, 232, 243, 0.75)!important;
+    color: rgb(240, 186, 10)!important;
 }
 h2.home__text{
-    color: aliceblue;
+    color: rgb(12, 12, 12);
     font-size: 54px;
     line-height: 54px;
     font-weight: 800;
@@ -32,7 +32,7 @@ h3.home__text{
     line-height: 40px;
 }
 h4.home__text{
-    color: aliceblue;
+    color: rgb(13, 13, 14);
     font-size: 50px;
     font-weight: 800;
     line-height: 40px;

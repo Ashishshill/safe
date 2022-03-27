@@ -8,7 +8,7 @@ function Serve() {
   return (
     <div className="project component__space" id="Portfolio">
       <div className="heading">
-        <h1 className="heading">Organizations Serve</h1>
+        <h1 className="heading">Organizations Served</h1>
         <p className="heading p__color">
         
         </p>

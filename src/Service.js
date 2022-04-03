@@ -11,7 +11,7 @@ function Service() {
           These are the services that we provide,
         </p>
         <p className="heading p__color">
-           Of Our consulting Farm.
+           in our consulting Firm.
         </p>
       </div>
 
@@ -72,9 +72,9 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Project Monitoring system Design</h1>
+                <h1 className="service__text">Project Monitoring System Design</h1>
                 <p className="p service__text p__color">
-                  - Project proposal/ document review
+                  - Project proposal/ Document review
                 </p>
                 <p className="p service__text p__color">
                   - Data collection tools design as per log-frame indicators
@@ -82,7 +82,7 @@ function Service() {
                 <p className="p service__text p__color">
                   - Data analysis and Reporting
                 </p>
-                <p className="p service__text p__color">- online and off line data inputs</p>
+                <p className="p service__text p__color">- Online and off line data inputs</p>
               </div>
             </div>
           </div>
@@ -108,17 +108,15 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Project Baseline Study</h1>
+                <h1 className="service__text">Project Baseline Study/Assessmnet & Evaluation</h1>
                 <p className="p service__text p__color">
                   - Project document/ log-frame review
                 </p>
                 <p className="p service__text p__color">
-                  - Data collection tools design online and off-line
+                  - Data Collection tools design online and off-line
                 </p>
-                <p className="p service__text p__color">
-                  Data entry and analysis
-                </p>
-                <p className="p service__text p__color">- Report preparation</p>
+                
+                <p className="p service__text p__color">- Report Preparation</p>
               </div>
             </div>
           </div>

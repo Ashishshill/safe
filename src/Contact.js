@@ -22,7 +22,7 @@ function Contact() {
                             <p className="hire__text white"> Additional Email Address:</p>
                             <p className="hire__text white"><strong>gchowhan12@gmail.com</strong></p>
                             <p className="hire__text white">Telephone: </p>
-                            <p className="hire__text white"><strong>9116823</strong></p>
+                            <p className="hire__text white"><strong>+88 01521 101069</strong></p>
                         </div>
                     </div>
                 </div>

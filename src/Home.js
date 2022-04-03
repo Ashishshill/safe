@@ -42,10 +42,10 @@ function Home() {
         <div className="container">
           <div className="home__content">
             <div className="home__meta">
-              <h1 className="home__text pz__10">WELCOME TO SAFE Development Group</h1>
-              <h2 className="home__text pz__10">A development consulting firm - brief profile</h2>
+              <h3 className="home__text pz__10">WELCOME TO SAFE Development Group</h3>
               <h3 className="home__text sweet pz__10">Sustainable Agriculture Farming Enterprise (SAFE)</h3>
-              <h4 className="home__text pz__10">Based in Dhaka, Bangladesh.</h4>
+              <h2 className="home__text pz__10">A development consulting firm committed to quality support</h2>
+              {/* <h4 className="home__text pz__10">Based in Dhaka, Bangladesh.</h4> */}
             </div>
           </div>
         </div>

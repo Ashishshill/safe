@@ -91,7 +91,7 @@ UST
            <div className="col__5">
            <h1>SAFE Profile & Consultants</h1>
 
-<p><a href="https://drive.google.com/file/d/1JkFvi_-ndbxGUTmsVFUWlxRF6cWBs3bB/view?usp=sharing">Visit Here!</a></p>
+<button class="button"><a href="https://drive.google.com/file/d/1JkFvi_-ndbxGUTmsVFUWlxRF6cWBs3bB/view?usp=sharing">Visit Here!</a></button>
            </div>
            <div className="col__2">
            <h1>||</h1>
@@ -100,7 +100,7 @@ UST
            <div className="col__5">
            <h1>SAFE Consultancy records </h1>
 
-<button><a href="https://drive.google.com/file/d/1G91ty7DydDxeDYCSmOmIh-rJ-lIjvoBD/view?usp=sharing">Visit Here!</a></button>
+<button class="button"><a href="https://drive.google.com/file/d/1G91ty7DydDxeDYCSmOmIh-rJ-lIjvoBD/view?usp=sharing">Visit Here!</a></button>
            </div>
 
          </div>
